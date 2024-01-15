@@ -1,4 +1,4 @@
-I made a Contact List app with another team member for an Android mobile using SQLite as the database for storage. The following features were implemented:
+I made a Contact List app in java with another team member for an Android mobile using SQLite as the database for storage. The following features were implemented:
 
 View a list of contacts.
 Add new contacts with details such as name, phone number, email, and photo.
